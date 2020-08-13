@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /1.3/
+Sitemap: http://www.filelock.org/sitemap.xml
